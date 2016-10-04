@@ -23,14 +23,15 @@ another day	改天
 Come again another day.	改天再來
 want	想要
 想要	want
-Little Annie wants to play.	小安妮想要玩
-小安妮想要玩	Little Annie wants to play.
+Little Annie wants to play.	小安妮想要去玩
+小安妮想要去玩	Little Annie wants to play.
 那個正確?<br>(1)Little Annie wants to play. <br>(2)Little Annie want to play.	(1)Little Annie wants to play.
 Rain, rain, go away.	雨天，雨天，快走開
 雨天，雨天，快走開！	Rain, rain, go away.
 I want a sunny day.	我想要晴天
 我想要晴天	I want a sunny day.
 那個正確?<br>(1)I wants a sunny day.<br>(2)I want a sunny day.	(2)I want a sunny day.
+那個正確?<br>(1)I want a sunny day.<br>(2)I want an sunny day.	(1)I want a sunny day.
 Don't litter.	別亂丟垃圾
 別亂丟垃圾	Don't litter.
 Pickup the trash.	撿起垃圾
@@ -51,6 +52,7 @@ thunder	打雷
 打雷	thunder
 你的祖父是廚師嗎?	Is your grandfather a cook?
 Is your grandfather a cook?	你的祖父是廚師嗎?
+____ your grandfather a cook?	Is your grandfather a cook?
 祖母(阿嬤 奶奶 外婆)	grandmother
 grandmother	祖母(阿嬤 奶奶 外婆)
 廚師	cook
