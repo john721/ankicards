@@ -1,0 +1,64 @@
+Birthday Soup	生日湯
+soup	湯
+Where are you?	你在哪裡
+Today is my birthday.	今天是我的生日
+Oh, dear,	哎呀!
+I do not see a birthday cake.	我沒看到生日蛋糕
+I think my friends will come.	我認為我的朋友即將來到
+cake	蛋糕
+What can I do?	我該怎麼辦?
+The pot is by the fire.	鍋子在火爐旁邊
+The water in the pot is hot.	鍋子裡的水是熱的
+If I put something in the water.	如果我放些什麼到水裡
+I can make Birthday Soup.	我可以做生日湯
+if	如果
+All my friends like soup.	我的朋友都很愛喝湯
+Let me see what we have.	讓我看看我有些什麼
+friend(s)	朋友
+carrot(s)	紅蘿蔔
+pea(s)	豌豆
+potato(es)	馬鈴薯
+tomato(es)	蕃茄
+Let me see.	我來瞧瞧..
+I can make soup with carrots.	我可以用紅蘿蔔來煮湯
+I can make soup with potatoes.	我可以用馬鈴薯來煮湯
+I can make soup with peas.	我可以用豌豆來煮湯
+I can make soup with tomatoes.	我可以用蕃茄來煮湯
+begin<br>過去式: began	開始
+pot	鍋子
+first	第一, 首先
+hen	母雞
+smell	聞起來, 有氣味
+stay	停留；留下
+have something	吃點什麼; 有些什麼
+wait	等待
+next	接下來
+I am making Birthday Soup.	我正在做生日湯.
+Can you really cook?	你真的會做菜嗎?
+eat	吃
+I do not know. 	我不知道
+all	全部
+all of us	我們全部
+beautiful	美麗的
+As good as Birthday cake.	像生日蛋糕一樣好
+surprise	驚喜
+forget<br>過去式: forgot	忘記
+never	從未；永不；決不
+Something smells good here!	這裡有東西聞起來好香啊!
+Will you stay and have some?	你會留下來吃一點嗎?
+She sat down to wait	她坐下來等待.
+my goodness	我的天啊!
+I hope you like Birthday Soup.	我希望你會喜歡生日湯
+The Birthday Soup is hot.	生日湯是熱的.
+I do not know where she is.	我不知道她在哪裡.
+Here is some soup for you.	一些湯給你!
+Now we can all have some Birthday Soup.	現在我們都可以喝生日湯了
+Cat saw Mother Bear at the door.	貓咪看到熊媽媽在門邊
+Do not eat.	別吃
+Do not eat yet.	先別吃
+shut	關上，閉上，關閉
+Shut your eye.	閉上你的眼睛
+Now, look!	現在可以(張開眼睛)看了!
+I am so happy you did not forget.	我好開心你沒有忘記.
+This Birthday Cake is a surprise for you.	生日蛋糕是給你的驚喜
+I never forgot your birthday.	我一直沒(從來不)忘記你的生日
